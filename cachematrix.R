@@ -4,6 +4,9 @@
 ## 2) use <<- operator to set variable value outside the 
 ## scope of function
 
+## This code follows the example code provided in
+## https://github.com/rdpeng/ProgrammingAssignment2
+
 ## Function name: makeCacheMatrix
 ## This function creates a special "matrix" object
 ## Input : A invertible matrix. for e.g.
